@@ -1,10 +1,10 @@
-<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" alt="banner" width="1000" height="500"/>
+<img src="https://t4.ftcdn.net/jpg/06/72/44/33/360_F_672443348_bE4sPvUKjyQyYGjuOcdaT3wguBQsXdow.jpg" alt="banner" width="1200" height="300"/>
 <h1 align="center">Hi 👋, I'm Bac Nguyen</h1>
 <h3 align="center">I'm looking for Backend or Testing job</h3>
 
 - 🌱 I’m currently learning **Manual testing**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, Javascript, PHP, Laravel**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, Bootstrap, TailwindCSS,  Laravel**
 
 - 📫 How to reach me **bacnguyenfsd@gmail.com/bacng2508@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
