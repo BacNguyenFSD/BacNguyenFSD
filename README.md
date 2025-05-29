@@ -1,4 +1,4 @@
-<img src="https://t4.ftcdn.net/jpg/06/72/44/33/360_F_672443348_bE4sPvUKjyQyYGjuOcdaT3wguBQsXdow.jpg" alt="banner" width="1200" height="250"/>
+<img src="https://t4.ftcdn.net/jpg/06/72/44/33/360_F_672443348_bE4sPvUKjyQyYGjuOcdaT3wguBQsXdow.jpg" alt="banner" width="1200" height="280"/>
 <h1 align="center">Hi 👋, I'm Bac Nguyen</h1>
 <h3 align="center">I'm looking for Backend or Testing job</h3>
 
